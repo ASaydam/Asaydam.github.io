@@ -51,7 +51,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/ASaydam/asaydam
+  gitRepo: https://github.com/ASaydam/asaydam.io
   # Default branch of your Git repo
   gitBranch: main
 
@@ -126,13 +126,13 @@ params:
     # Enable Analytics
     analytics:
       enabled: true
-      # Google Analytics
+      # # Google Analytics
       #google:
       #  id: G-H4LBG7NDFZ
       # # CounterDev
       # counterDev:
       #   id: <your counterdev id>
-      # # GoatCounter
+      # GoatCounter
       goatCounter:
         code: asaydam
       # # Matomo / Piwik
