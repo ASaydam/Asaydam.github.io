@@ -8,45 +8,33 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: AI Research Fellow
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: KUIS AI Lab
+  url: "https://ai.ku.edu.tr/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a PhD Candidate at [Koc University](https://www.ku.edu.tr/en/). I work with deep learning models to analyze large datasets and make predictions based on the data. I often use neural networks in a variety of applications, such as accelerating computational fluid dynamics simulations, image classification and generation.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "asaydam21@ku.edu.tr"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://www.github.com/asaydam"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
-
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+  url: "https://www.linkedin.com/in/alpersaydam/"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -59,32 +47,33 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: KUIS AI
+  url: "https://ai.ku.edu.tr/"
+  badge: "https://media.licdn.com/dms/image/C4D0BAQENLYZCA7VN6Q/company-logo_200_200/0/1622636896148?e=2147483647&v=beta&t=cWiDXbpKxGk6HXzsRKS0LvgSW20dR8-z1AOwtxoMtIc"
+
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Tensorflow Developer
+  url: "https://www.credential.net/068cc194-8842-4935-ac22-5c2b80e4df7d"
+  badge: "https://templates.images.credential.net/16589346213183572350230433330388.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Matlab
+  url: "https://matlabacademy.mathworks.com/progress/share/report.html?id=06ced1a9-0176-4b81-a0bb-d5f9b155a6be"
+  badge: "https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
 
 - type: soft-skill-indicator
-  name: Leadership
+  name: Researcher
   percentage: 85
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
+  name: Tensorflow Developer
+  percentage: 85
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Matlab User
   percentage: 85
   color: orange
 
