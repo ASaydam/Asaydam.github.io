@@ -1,4 +1,4 @@
-baseURL: https://asaydam.github.io/
+baseURL: https://Asaydam.github.io/
 
 languageCode: en-us
 title: "Alper's Blog"
@@ -10,9 +10,9 @@ languages:
   en:
     languageName: English
     weight: 1
-  bn:
-    languageName: Turkish
-    weight: 3
+  #bn:
+  #  languageName: Turkish
+  #  weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -51,7 +51,7 @@ params:
     favicon: /images/site/favicon_ab.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/ASaydam/asaydam.github.io.git
+  gitRepo: https://github.com/ASaydam/Asaydam.github.io
   # Default branch of your Git repo
   gitBranch: main
 
